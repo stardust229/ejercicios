@@ -1,4 +1,4 @@
-#!/bib/bash
+#!/bin/bash
 echo "Inicia el script 2"
 bash s1.sh
 echo $1
