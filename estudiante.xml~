@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<estudiante numCuenta="419001986">
+  <nombre>Michel</nombre>
+  <edad>19</edad>
+  <correo>michelavila229@gmail.com</correo>
+  <sexo>Femenino</sexo>
+</estudiante>
